@@ -4,3 +4,9 @@ C:\Users\Peki\Documents\Programing\VisualStudio\Kniha\BytoveDruzstvo\bin\Debug\B
 C:\Users\Peki\Documents\Programing\VisualStudio\Kniha\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.csprojAssemblyReference.cache
 C:\Users\Peki\Documents\Programing\VisualStudio\Kniha\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.exe
 C:\Users\Peki\Documents\Programing\VisualStudio\Kniha\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.pdb
+C:\Users\Peki\Documents\Programing\Repos\C#\BytoveDruzstvo\bin\Debug\BytoveDruzstvo.exe.config
+C:\Users\Peki\Documents\Programing\Repos\C#\BytoveDruzstvo\bin\Debug\BytoveDruzstvo.exe
+C:\Users\Peki\Documents\Programing\Repos\C#\BytoveDruzstvo\bin\Debug\BytoveDruzstvo.pdb
+C:\Users\Peki\Documents\Programing\Repos\C#\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.csprojAssemblyReference.cache
+C:\Users\Peki\Documents\Programing\Repos\C#\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.exe
+C:\Users\Peki\Documents\Programing\Repos\C#\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.pdb

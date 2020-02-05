@@ -65,7 +65,7 @@ namespace BytoveDruzstvo
             Console.WriteLine("Chces upravit jmeno? A/N");
             if (Console.ReadLine().ToLower() == "a")
             {
-                Console.WriteLine("Zadej nove jmeno: ");
+                Console.WriteLine("Zadej nové jmeno: ");
                 clovek.Jmeno = Console.ReadLine();
             }
             Console.WriteLine("Chces upravit vek? A/N");
