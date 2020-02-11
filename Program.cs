@@ -21,8 +21,9 @@ namespace BytoveDruzstvo
                     Console.WriteLine("\t 2. Vypis cloveka/bytu");
                     Console.WriteLine("\t 3. Vyber index a smaz obyvatele");
                     Console.WriteLine("\t 4. Uprav cloveka");
-                    Console.WriteLine("\t 5. Konec programu");
-               
+                    Console.WriteLine("\t 5. Vyhledej cloveka");
+                    Console.WriteLine("\t 6. Konec programu");
+
                     volba = Int32.Parse(Console.ReadLine());
                     switch (volba)
                     {
@@ -38,8 +39,11 @@ namespace BytoveDruzstvo
                         case 4:
                             byt.UpravCloveka();
                             break;
+                        case 5:
+                            byt.vyhledatCloveka();
+                            break;
                     }
-                } while (volba !=5);
+                } while (volba !=6);
                 }
             catch (Exception)
             {

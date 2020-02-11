@@ -10,3 +10,9 @@ C:\Users\Peki\Documents\Programing\Repos\C#\BytoveDruzstvo\bin\Debug\BytoveDruzs
 C:\Users\Peki\Documents\Programing\Repos\C#\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.csprojAssemblyReference.cache
 C:\Users\Peki\Documents\Programing\Repos\C#\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.exe
 C:\Users\Peki\Documents\Programing\Repos\C#\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.pdb
+D:\Source Code škola\Programing\Repos\C#\BytoveDruzstvo\bin\Debug\BytoveDruzstvo.exe.config
+D:\Source Code škola\Programing\Repos\C#\BytoveDruzstvo\bin\Debug\BytoveDruzstvo.exe
+D:\Source Code škola\Programing\Repos\C#\BytoveDruzstvo\bin\Debug\BytoveDruzstvo.pdb
+D:\Source Code škola\Programing\Repos\C#\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.csprojAssemblyReference.cache
+D:\Source Code škola\Programing\Repos\C#\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.exe
+D:\Source Code škola\Programing\Repos\C#\BytoveDruzstvo\obj\Debug\BytoveDruzstvo.pdb

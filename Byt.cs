@@ -76,6 +76,18 @@ namespace BytoveDruzstvo
             }
 
         }
+        public void vyhledatCloveka()
+        {
+            Console.WriteLine("Zadej jmeno: ");
+            string hledej = Console.ReadLine();
+            foreach (Clovek clovek in lide)
+            {
+                if (clovek.Jmeno.Contains(hledej.ToLower()))
+                {
+                    Console.WriteLine("Ano, clovek jmenem {0} zde bydli.", clovek.Jmeno);
+                }
+            }
+        }
 
     }
 }
